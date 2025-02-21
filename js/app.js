@@ -1,6 +1,5 @@
 // ------------------------------------------------
 // Project Name: Personal Portfolio & Resume
-// Project Description: Show yourself brightly with Braxton - unique and creative portfolio and resume template!
 // Tags: mix_design, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean
 // Author: Md. Al Amin Hossain Rifat
 // File name: app.js

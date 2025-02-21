@@ -3041,9 +3041,9 @@ form textarea:required:valid {
   }
 }
 
-.logo__caption {
+/* .logo__caption {
   padding-left: 2rem;
-}
+} */
 .logo__caption p {
   font: normal 700 2.8rem/1.06 var(--_font-accent);
   color: var(--t-bright);
